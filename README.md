@@ -1,8 +1,16 @@
 
 
-<div align="end">
+
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
+  <div align="center">
 <div id="header">
-  <img src="https://media.giphy.com/media/VzGQrj8sLH4GLcSiG1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/VzGQrj8sLH4GLcSiG1/giphy.gif" width="200" height="100"/>
 </div>
 
 <div id="badges">
@@ -12,12 +20,6 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=yong197578&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
