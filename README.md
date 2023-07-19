@@ -1,6 +1,6 @@
 
 
-<div style="display: flex; flex-direction: column; justify-content: flex-end>
+<div align="end">
 <div id="header">
   <img src="https://media.giphy.com/media/VzGQrj8sLH4GLcSiG1/giphy.gif" width="100"/>
 </div>
