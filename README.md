@@ -60,6 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mondrian Painting](https://dev.to/yong197578/mondrain-painting-5el8)
 - [Learning to code is a bit like going to the gym.](https://dev.to/yong197578/learning-to-code-is-a-bit-likegoing-to-the-gym-lli)
 - [My Shift from Vanilla JS to React](https://dev.to/yong197578/my-shift-from-vanilla-js-to-react-2d1e)
 <!-- BLOG-POST-LIST:END -->
